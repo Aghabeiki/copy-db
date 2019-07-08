@@ -1,0 +1,10 @@
+* copy full of a database.
+* revert action
+    * store the inserted id and delete if required ( by request )
+* make a kind of history
+    * store the user choice and suggest for next time.
+    * create a report for revert things back
+* advance mode ->
+    * accept connection URI
+     * backup/restore mode
+* fix default editor things???? really?
