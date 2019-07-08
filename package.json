@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "maintainers": [
+    {
+      "email": "amin[dot]aghabeiki{at}google-email.com",
+      "name": "Amin Aghabeiki"
+    }
+  ],
   "bin": {
     "copy-collection": "app.js"
   },
